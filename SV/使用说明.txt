@@ -1,1 +1,1 @@
-占位
+Lumpy需要bam文件有RG行，如果报错提示没有RG的话，用add_RG.sh来添加
