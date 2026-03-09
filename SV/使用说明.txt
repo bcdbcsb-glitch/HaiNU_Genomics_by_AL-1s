@@ -1,1 +1,4 @@
 Lumpy需要bam文件有RG行，如果报错提示没有RG的话，用add_RG.sh来添加
+另外因为Lumpy和所依赖的Smoove需要的环境配置比较复杂，个人尝试用conda来安装了几次没成功。所以就转用了docker。
+
+注意：docker需要sudo权限！
